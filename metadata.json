@@ -1,0 +1,8 @@
+{
+  "name": "PORTAFOLIO CIBERSEGURIDAD",
+  "description": "A high-end, cyber-security themed portfolio for a SOC Analyst featuring threat detection visuals, skills matrix, and an AI-powered security assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
